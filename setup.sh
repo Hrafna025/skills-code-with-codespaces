@@ -1,2 +1,2 @@
 sudo apt-get update
-sudo apt.get instal sl
+sudo apt-get instal sl
